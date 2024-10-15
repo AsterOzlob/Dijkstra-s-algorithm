@@ -1,0 +1,14 @@
+C:\Users\tumos\OneDrive\Рабочий стол\Алгоритмы и структуры данных\Алгоритм Дейкстры\bin\Debug\net7.0\Алгоритм Дейкстры.exe
+C:\Users\tumos\OneDrive\Рабочий стол\Алгоритмы и структуры данных\Алгоритм Дейкстры\bin\Debug\net7.0\Алгоритм Дейкстры.deps.json
+C:\Users\tumos\OneDrive\Рабочий стол\Алгоритмы и структуры данных\Алгоритм Дейкстры\bin\Debug\net7.0\Алгоритм Дейкстры.runtimeconfig.json
+C:\Users\tumos\OneDrive\Рабочий стол\Алгоритмы и структуры данных\Алгоритм Дейкстры\bin\Debug\net7.0\Алгоритм Дейкстры.dll
+C:\Users\tumos\OneDrive\Рабочий стол\Алгоритмы и структуры данных\Алгоритм Дейкстры\bin\Debug\net7.0\Алгоритм Дейкстры.pdb
+C:\Users\tumos\OneDrive\Рабочий стол\Алгоритмы и структуры данных\Алгоритм Дейкстры\obj\Debug\net7.0\Алгоритм Дейкстры.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tumos\OneDrive\Рабочий стол\Алгоритмы и структуры данных\Алгоритм Дейкстры\obj\Debug\net7.0\Алгоритм Дейкстры.AssemblyInfoInputs.cache
+C:\Users\tumos\OneDrive\Рабочий стол\Алгоритмы и структуры данных\Алгоритм Дейкстры\obj\Debug\net7.0\Алгоритм Дейкстры.AssemblyInfo.cs
+C:\Users\tumos\OneDrive\Рабочий стол\Алгоритмы и структуры данных\Алгоритм Дейкстры\obj\Debug\net7.0\Алгоритм Дейкстры.csproj.CoreCompileInputs.cache
+C:\Users\tumos\OneDrive\Рабочий стол\Алгоритмы и структуры данных\Алгоритм Дейкстры\obj\Debug\net7.0\Алгоритм Дейкстры.dll
+C:\Users\tumos\OneDrive\Рабочий стол\Алгоритмы и структуры данных\Алгоритм Дейкстры\obj\Debug\net7.0\refint\Алгоритм Дейкстры.dll
+C:\Users\tumos\OneDrive\Рабочий стол\Алгоритмы и структуры данных\Алгоритм Дейкстры\obj\Debug\net7.0\Алгоритм Дейкстры.pdb
+C:\Users\tumos\OneDrive\Рабочий стол\Алгоритмы и структуры данных\Алгоритм Дейкстры\obj\Debug\net7.0\Алгоритм Дейкстры.genruntimeconfig.cache
+C:\Users\tumos\OneDrive\Рабочий стол\Алгоритмы и структуры данных\Алгоритм Дейкстры\obj\Debug\net7.0\ref\Алгоритм Дейкстры.dll
